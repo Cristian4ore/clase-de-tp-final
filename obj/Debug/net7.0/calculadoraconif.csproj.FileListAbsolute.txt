@@ -1,0 +1,15 @@
+C:\Users\usuario\Desktop\algoritmojunio1\calculadoraconif\bin\Debug\net7.0\calculadoraconif.exe
+C:\Users\usuario\Desktop\algoritmojunio1\calculadoraconif\bin\Debug\net7.0\calculadoraconif.deps.json
+C:\Users\usuario\Desktop\algoritmojunio1\calculadoraconif\bin\Debug\net7.0\calculadoraconif.runtimeconfig.json
+C:\Users\usuario\Desktop\algoritmojunio1\calculadoraconif\bin\Debug\net7.0\calculadoraconif.dll
+C:\Users\usuario\Desktop\algoritmojunio1\calculadoraconif\bin\Debug\net7.0\calculadoraconif.pdb
+C:\Users\usuario\Desktop\algoritmojunio1\calculadoraconif\obj\Debug\net7.0\calculadoraconif.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\algoritmojunio1\calculadoraconif\obj\Debug\net7.0\calculadoraconif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\algoritmojunio1\calculadoraconif\obj\Debug\net7.0\calculadoraconif.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\algoritmojunio1\calculadoraconif\obj\Debug\net7.0\calculadoraconif.AssemblyInfo.cs
+C:\Users\usuario\Desktop\algoritmojunio1\calculadoraconif\obj\Debug\net7.0\calculadoraconif.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\algoritmojunio1\calculadoraconif\obj\Debug\net7.0\calculadoraconif.dll
+C:\Users\usuario\Desktop\algoritmojunio1\calculadoraconif\obj\Debug\net7.0\refint\calculadoraconif.dll
+C:\Users\usuario\Desktop\algoritmojunio1\calculadoraconif\obj\Debug\net7.0\calculadoraconif.pdb
+C:\Users\usuario\Desktop\algoritmojunio1\calculadoraconif\obj\Debug\net7.0\calculadoraconif.genruntimeconfig.cache
+C:\Users\usuario\Desktop\algoritmojunio1\calculadoraconif\obj\Debug\net7.0\ref\calculadoraconif.dll
